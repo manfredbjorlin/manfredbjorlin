@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @manfredbjorlin
-- 👀 I’m interested in integration and seamless CI/CD
-- 🌱 I’m currently learning github actions
-- 💞️ I’m looking to collaborate on architecture
+- 👋 Hi, I’m @manfredbjorlin aka Manfred Bjørlin
+- 👀 I’m interested in integration and APIs
 - 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/manfredbjorlin/
-
