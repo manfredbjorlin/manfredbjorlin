@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @manfredbjorlin aka Manfred Bjørlin
 - 👀 I’m interested in integration and APIs
-- 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/manfredbjorlin/
+- 📫 How to reach me: https://manfred.no
